@@ -1,0 +1,38 @@
+**Project Name:** Guardian Augmented Reality System
+
+**Description:**
+Guardian is an innovative Augmented Reality System designed to enhance the spatial awareness and situational understanding of soldiers on the battlefield or during search and rescue missions. Traditionally, communication tools like radios and maps have limitations in conveying critical information about the environment, such as enemy and friendly force locations. Guardian addresses this by providing soldiers with both real-time task support and a broader battlefield perspective.
+
+**How it Works:**
+- Guardian combines hardware and software components.
+- Software: Developed using Android Development Studio, utilizing Java and Kotlin.
+- Hardware: Utilizes an LGV35Q Android Phone as the AR platform and a custom goggle contraption to hold the AR hardware.
+
+**Challenges Faced:**
+- Difficulty finding documentation for the latest drivers and classes.
+- Limited access to APIs for drone streaming.
+- Inability to obtain desired hardware resources, such as an Android Watch with WearOS development capabilities and 3D printing for goggles.
+
+**Proud Accomplishments:**
+- Successfully developed an Android application from scratch.
+- Collaborated effectively as a first-time hackathon team.
+- Learned how to use Android CameraX API and Kotlin/Java for application development.
+- Overcame various challenges in both software and hardware aspects of the project.
+
+**Key Takeaways:**
+- Transforming an idea into reality demands dedication and hard work.
+- Debugging and addressing hardware limitations are integral parts of development.
+- Acquired proficiency in Android CameraX API and Kotlin/Java through thorough documentation study.
+- Acknowledged the importance of tackling challenges in every project.
+
+**Future Development:**
+- Enhance the UI and incorporate AI/ML object detection for improved user experience.
+- Explore the use of thermal sensors to provide additional perspectives.
+- Optimize drone APIs for video streaming, potentially allowing for multi-drone video integration.
+- Consider speech recognition for foreign language translation to facilitate communication in foreign nations.
+
+**Technologies Used:**
+- Android Studio
+- Java
+- Kotlin
+- Skydio
